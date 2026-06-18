@@ -18,7 +18,9 @@ Enthusiastic learner. Codes sometimes.
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Man1ac-1773&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://streak-stats.demolab.com/?user=Man1ac-1773&theme=radical&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Man1ac-1773&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Socials:
