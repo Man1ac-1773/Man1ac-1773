@@ -1,5 +1,5 @@
 # About Me:
-Enthusiastic learner. Codes sometimes. 
+Deep learning enthusiast. 
 
 
 # Tech Stack:
